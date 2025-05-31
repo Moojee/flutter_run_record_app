@@ -1,16 +1,8 @@
-# flutter_run_record_app
+# Screen flutter_run_record_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/e99c0696-eb61-46b5-ad83-e49044a4b5d5" width="200" />
+<img src="https://github.com/user-attachments/assets/f09c0ebc-c916-4341-93ae-17a39a698adc" width="200" />
+<img src="https://github.com/user-attachments/assets/7691061b-de17-4e69-8f52-7b5c7dd23019" width="200" />
+<img src="https://github.com/user-attachments/assets/0e85e191-b2e3-448c-b1da-7630c78c4571" width="200" />
+<img src="https://github.com/user-attachments/assets/6976a392-749e-4f1d-9e06-fabf8dfe2d9e" width="200" />
